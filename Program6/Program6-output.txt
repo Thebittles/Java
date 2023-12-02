@@ -1,0 +1,45 @@
+Name:    Brittany Sifford
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Six 
+
+This program calculates and displays the average of six test
+scores, all integers, after the lowest score has been dropped. 
+
+Please enter the 1st test scores: 
+99
+Please enter the 2nd test scores: 
+54
+Please enter the 3rd test scores: 
+67
+Please enter the 4th test scores: 
+89
+Please enter the 5th test scores: 
+78
+Please enter the 6th test scores: 
+100
+Average: 86.60
+Lowest: 54
+
+========================================================
+
+Name:    Brittany Sifford
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Six 
+
+This program calculates and displays the average of six test
+scores, all integers, after the lowest score has been dropped. 
+
+Please enter the 1st test scores: 
+63
+Please enter the 2nd test scores: 
+99
+Please enter the 3rd test scores: 
+53
+Please enter the 4th test scores: 
+100
+Please enter the 5th test scores: 
+96
+Please enter the 6th test scores: 
+42
+Average: 82.20
+Lowest: 42

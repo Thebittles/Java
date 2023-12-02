@@ -1,0 +1,53 @@
+
+=========~ Run 1 ~=========
+
+Enter the number of floors in the hotel: 5
+
+Enter the number of rooms on floor 1: 10
+Enter the number of occupied rooms on floor 1: 5
+
+Enter the number of rooms on floor 2: 12
+Enter the number of occupied rooms on floor 2: 11
+
+Enter the number of rooms on floor 3: 8
+Enter the number of occupied rooms on floor 3: 4
+
+Enter the number of rooms on floor 4: 10
+Enter the number of occupied rooms on floor 4: 0
+
+Enter the number of rooms on floor 5: 12
+Enter the number of occupied rooms on floor 5: 8
+
+Total rooms in the hotel: 52
+Occupied rooms: 28
+Unoccupied rooms: 24
+Occupancy rate: 53.8%
+
+
+=========~ Run 2 ~=========
+
+
+Enter the number of floors in the hotel: 6
+
+Enter the number of rooms on floor 1: 12
+Enter the number of occupied rooms on floor 1: 8
+
+Enter the number of rooms on floor 2: 11
+Enter the number of occupied rooms on floor 2: 11
+
+Enter the number of rooms on floor 3: 10
+Enter the number of occupied rooms on floor 3: 5
+
+Enter the number of rooms on floor 4: 10
+Enter the number of occupied rooms on floor 4: 3
+
+Enter the number of rooms on floor 5: 9
+Enter the number of occupied rooms on floor 5: 2
+
+Enter the number of rooms on floor 6: 10
+Enter the number of occupied rooms on floor 6: 0
+
+Total rooms in the hotel: 62
+Occupied rooms: 29
+Unoccupied rooms: 33
+Occupancy rate: 46.8%

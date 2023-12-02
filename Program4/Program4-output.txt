@@ -1,0 +1,62 @@
+*******~ Run 1 ~*********
+
+Name:    Brittany Sifford
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Four
+
+ID Number: 1001
+Pay Rate: $12.50
+Hours worked: 36
+
+Regular Hours: 36.0
+Overtime Hours: 0.0
+Total Hours: 36.0
+Regular Pay: $450.00
+Overtime Pay: $0.00
+Gross Pay: $450.00
+Tax: $0.00
+Deductions: $35.00
+Net Pay: $415.00
+
+
+*******~ Run 2 ~*********
+
+Name:    Brittany Sifford
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Four
+
+ID Number: 2002
+Pay Rate: $32.45
+Hours worked: 40
+
+Regular Hours: 40.0
+Overtime Hours: 0.0
+Total Hours: 40.0
+Regular Pay: $1298.00
+Overtime Pay: $0.00
+Gross Pay: $1298.00
+Tax: $165.50
+Deductions: $200.50
+Net Pay: $1097.51
+
+
+*******~ Run 3 ~*********
+
+
+Name:    Brittany Sifford
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Four
+
+ID Number: 3003
+Pay Rate: $18.65
+Hours worked: 52
+
+Regular Hours: 40.0
+Overtime Hours: 12.0
+Total Hours: 52.0
+Regular Pay: $746.00
+Overtime Pay: $335.70
+Gross Pay: $1081.70
+Tax: $137.92
+Deductions: $172.92
+Net Pay: $908.78

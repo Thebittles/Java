@@ -1,0 +1,36 @@
+Name:    Brittany Sifford
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Two 
+
+Enter the Property Value: $300000.00
+Enter the Tax Rate (per $100.00 of assessed value): $2.62
+The Actual Value is: $300000.00
+The Assessed Value is: $180000.00
+The Tax Rate is: $  2.62
+The Property Tax is: $4716.00
+
+=============================================================
+
+Name:    Brittany Sifford
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Two 
+
+Enter the Property Value: $440000.00 
+Enter the Tax Rate (per $100.00 of assessed value): $2.15
+The Actual Value is: $440000.00
+The Assessed Value is: $264000.00
+The Tax Rate is: $  2.15
+The Property Tax is: $5676.00
+
+=============================================================
+
+Name:    Brittany Sifford
+Course:  ITSE 2321 Object-Oriented Programming
+Program: Two 
+
+Enter the Property Value: $650000.00
+Enter the Tax Rate (per $100.00 of assessed value): $3.12
+The Actual Value is: $650000.00
+The Assessed Value is: $390000.00
+The Tax Rate is: $  3.12
+The Property Tax is: $12168.00
